@@ -100,7 +100,7 @@ Link Video en Youtube: https://youtu.be/lS8Jsyocg8Q
 
 ![](imgRepositorio/ppgithub.png)
 
-![Santiago Armijos (sjarmijos)](https://github.com/sjarmijos)
+[Santiago Armijos (sjarmijos)](https://github.com/sjarmijos)
 
 
 
