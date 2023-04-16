@@ -90,6 +90,11 @@ y también de la base de datos.
 
 ![](imgRepositorio/confirmacion-eliminacion.png)
 
+## Video Funcionamiento
+
+Link: Video en Youtube ![](https://youtu.be/lS8Jsyocg8Q)
+
+![](imgRepositorio/gifFuncionamiento.gif)
 
 
 
