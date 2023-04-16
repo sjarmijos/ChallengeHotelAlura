@@ -92,9 +92,15 @@ y también de la base de datos.
 
 ## Video Funcionamiento
 
-Link: Video en Youtube ![](https://youtu.be/lS8Jsyocg8Q)
+Link Video en Youtube: https://youtu.be/lS8Jsyocg8Q
 
 ![](imgRepositorio/gifFuncionamiento.gif)
+
+## Autor
+
+![Santiago Armijos (sjarmijos)](https://github.com/sjarmijos)
+
+
 
 
 
