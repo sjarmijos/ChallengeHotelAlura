@@ -44,5 +44,42 @@ Como regla de negocio se estableció que el valor por noche se determina de la s
   * Habitación Premium -> $14.99
   * Suite -> $16.99
 
+Finalmente al dar clic en el botón siguiente se realiza el proceso de guardado de la información en la tabla de reserva dentro 
+de la base de datos.
+
 ![](imgRepositorio/ventana-reservas.png)
+
+## 3. Registro Huespedes
+
+Esta ventana permite a los usuarios que realizaron una reserva, ingresar sus datos de identificación como: nombre, apellido, 
+fecha de nacimiento, nacionalidad y el numero de reserva que se asigna automaticamente tomando la reserva que hizo en el punto
+anterior, se debe mencionar que en este formulario de igual manera se han añadido las validaciones de evitar campos en blanco y
+de tipos de datos.
+
+Al dar clic en el boton guardar se genera un nuevo registro en la base de datos con la información del cliente ingresada, donde 
+el numero de reserva es Clave foranea de la tabla de reserva.
+
+![](imgRepositorio/ventana-Huespedes.png)
+
+## 4. Sistema de Busqueda
+
+En esta ventana se pueden observar todos los registros que están ingresados en la base de datos en sus respectivas tablas como se
+puede ver a continuación:
+
+![](imgRepositorio/ventana-listar-reservas.png)
+![](imgRepositorio/Ventana-listar-huespedes.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
