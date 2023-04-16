@@ -98,8 +98,9 @@ Link Video en Youtube: https://youtu.be/lS8Jsyocg8Q
 
 ## Autor
 
-![![](https://github.com/sjarmijos)](imgRepositorio/ppgithub.png)
+![](imgRepositorio/ppgithub.png)
 
+![Santiago Armijos (sjarmijos)](https://github.com/sjarmijos)
 
 
 
