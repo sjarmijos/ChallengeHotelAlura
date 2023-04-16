@@ -66,9 +66,29 @@ el numero de reserva es Clave foranea de la tabla de reserva.
 En esta ventana se pueden observar todos los registros que están ingresados en la base de datos en sus respectivas tablas como se
 puede ver a continuación:
 
-![](imgRepositorio/ventana-listar-reservas.png)
-![](imgRepositorio/Ventana-listar-huespedes.png)
+![](imgRepositorio/ventana-listar-reservas.png) ![](imgRepositorio/Ventana-listar-huespedes.png)
 
+También dentro de este sistema se pueden realizar busquedas por dos parametros que son:
+ * Id de reserva
+ * Apellido del huésped
+
+### Busqueda por id de reserva
+
+![](imgRepositorio/Busqueda-huesped-por-id-reserva.png)  ![](imgRepositorio/busqueda-reserva-por-id.png)
+
+### Busqueda por apellido de huesped
+
+![](imgRepositorio/Busqueda-huesped-por-apellido.png)  ![](imgRepositorio/busqueda-reserva-por-apellido-huesped.png)
+
+Adicionalmente, se puede realizar la edicion de los campos de la tabla desplegada de los huespedes y de las reservas, donde también 
+cuentan con la validación para no dejar campos en blanco y para no repetir los id's de huéspedes y reservas.
+
+![](imgRepositorio/confirmacion-de-edicion.png)
+
+Finalmente, al seleccionar un registro de la tabla de reservas o huéspedes y presionar el botón de eliminar se retira de la tabla de la view
+y también de la base de datos.
+
+![](imgRepositorio/confirmacion-eliminacion.png)
 
 
 
