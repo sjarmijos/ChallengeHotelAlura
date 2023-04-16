@@ -100,9 +100,9 @@ Link Video en Youtube: https://youtu.be/lS8Jsyocg8Q
 
 ![](imgRepositorio/ppgithub.png)
 
-[Santiago Armijos (sjarmijos)](https://github.com/sjarmijos)
+<a href="https://www.linkedin.com/in/santiago-armijos/"><img src="imgRepositorio/linkedinlogo.svg"></a>
 
-![https://www.linkedin.com/in/santiago-armijos/](imgRepositorio/linkedinlogo.svg)
+[Santiago Armijos (sjarmijos)](https://github.com/sjarmijos)
 
 
 
