@@ -23,14 +23,14 @@ reservas y huespedes.
 Por el momento el sistema de login hace un llamado a la base de datos preguntando si la información de usuario y contraseña
 ingresados en el formulario se encuentran ingresadas en la respectiva tabla llamada user.
 
-![](imgRepositorio/ventana login.png)
+![](imgRepositorio/ventana-login.png)
 
 ## 2. Menú principal
 
 Esta ventana permite el acceso a las principales funciones que el software permite realizar detallando cada una de ellas,
 ademas de especificar la fecha del sistema en la que se esta ejecutando.
 
-![](imgRepositorio/ventana principal.png)
+![](imgRepositorio/ventana-principal.png)
 
 ## 3. Registro de reservas
 
@@ -44,5 +44,5 @@ Como regla de negocio se estableció que el valor por noche se determina de la s
   * Habitación Premium -> $14.99
   * Suite -> $16.99
 
-![](imgRepositorio/ventana reservas.png)
+![](imgRepositorio/ventana-reservas.png)
 
