@@ -102,6 +102,8 @@ Link Video en Youtube: https://youtu.be/lS8Jsyocg8Q
 
 [Santiago Armijos (sjarmijos)](https://github.com/sjarmijos)
 
+![https://www.linkedin.com/in/santiago-armijos/](imgRepositorio/linkedinlogo.svg)
+
 
 
 
