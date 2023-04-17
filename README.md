@@ -4,11 +4,12 @@
 ## Tencnologías utilizadas
 
 1. Java
-2. JDBC
-3. MySql
-4. Biblioteca JCalendar
-5. Plugin WindowBuilder
-6. Eclipse
+2. Maven
+3. JDBC
+4. MySql
+5. Biblioteca JCalendar
+6. Plugin WindowBuilder
+7. Eclipse
 
 ## Resumen
 
